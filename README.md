@@ -3,7 +3,7 @@
 👨‍💻 i work on developer experience <br/> 
 🎹 i make computer music <br/>
 ✍️ i write about product management <br/>
-☀️ based in barcelona <br/>
+☀️ based in barcelona, native to berlin <br/>
   
 
 
