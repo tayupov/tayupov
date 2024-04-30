@@ -1,4 +1,11 @@
-### Hi there 👋
+<a href="https://media.tenor.com/BiBnqbqsymEAAAAi/spheal-spheal-pokemon.gif"><img align="left" width="250" style="margin-right: 150px;" src="https://media.tenor.com/3Qj2zvHVl40AAAAi/snorlax-sleeping.gif"></a>
+### hello 👋 <br>
+👨‍💻 i work on developer experience <br/> 
+🎹 i make computer music <br/>
+✍️ i write about product management <br/>
+☀️ based in barcelona <br/>
+  
+
 
 <!--
 **tayupov/tayupov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
