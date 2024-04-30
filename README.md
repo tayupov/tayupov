@@ -1,8 +1,7 @@
 <a href="https://media.tenor.com/BiBnqbqsymEAAAAi/spheal-spheal-pokemon.gif"><img align="left" width="250" style="margin-right: 150px;" src="https://media.tenor.com/BiBnqbqsymEAAAAi/spheal-spheal-pokemon.gif"></a>
 ### hello 👋 <br>
-👨‍💻 i work on developer experience <br/> 
-🎹 produce computer music <br/>
-✍️ write about product management <br/>
+👨‍💻 I work on developer experience <br/> 
+🎹 I produce electronic music <br/>
 ☀️ based in barcelona, native to berlin <br/>
   
 
