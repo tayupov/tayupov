@@ -1,7 +1,7 @@
 <a href="https://media.tenor.com/BiBnqbqsymEAAAAi/spheal-spheal-pokemon.gif"><img align="left" width="250" style="margin-right: 150px;" src="https://media.tenor.com/BiBnqbqsymEAAAAi/spheal-spheal-pokemon.gif"></a>
 ### hello 👋 <br>
-👨‍💻 product and tech type of person<br/>
-☀️ currently in berlin
+👨‍💻 i'm Roman.<br/>
+☀️ currently based in berlin.
   
 
 
