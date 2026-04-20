@@ -2,7 +2,7 @@
 ### hello 👋 <br>
 👨‍💻 i'm Roman.<br/>
 🔨 i work on marketplaces and developer tools.<br/>
-☀️ currently based in berlin.
+🌧️ currently based in berlin.
   
 
 
